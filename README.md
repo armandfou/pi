@@ -16,7 +16,7 @@ They also want to display the status of that most recent test directly in the re
 
 ## Tips
 
-vive tutu
+vive tututu
 
 - Successfully building the project will create a artifact named `report.txt`.
 - Review the contents of the report for more information.
